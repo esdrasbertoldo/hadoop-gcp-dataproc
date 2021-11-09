@@ -1,5 +1,6 @@
-# hadoop-gcp-dataproc
-Project Data Engineer Digital Innovation One
+# Project Data Engineer Digital Innovation One
+
+Dataproc Hadoop PySpark
 
 
 # Criação de um ecossistema de Big Data(Hadoop) usando o Google Cloud Platform (GCP)
